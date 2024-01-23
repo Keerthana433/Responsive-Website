@@ -1,0 +1,19 @@
+:root {
+    --orange-color:#DA722C;
+    --dark-blue-color: #023047;
+    --medium-blue-color: #057ADA;
+    --dark-color: #070917;
+    --light-color: #E8F7FB;
+    --light-blue-color: #6F7DFB;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+}
